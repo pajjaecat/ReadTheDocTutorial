@@ -8,5 +8,5 @@ build:
 #         - method: pip
 #           path: .
 
-sphinx: 
-fail_on_warning: True
+# sphinx: 
+# fail_on_warning: True
